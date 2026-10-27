@@ -1,0 +1,50 @@
+{
+  "hospitals": [
+    {
+      "id": "H1",
+      "name": "Federal Medical Centre Owerri",
+      "verified": true,
+      "location": { "lat": 5.4836, "lng": 7.0333 }
+    }
+  ],
+  "donors": [
+    {
+      "id": "D502",
+      "name": "Chidi Okafor",
+      "bloodType": "O-",
+      "distanceKm": 3.2,
+      "etaMin": 8,
+      "department": "Engineering",
+      "lastDonation": "2026-09-15",
+      "eligibleInDays": 42,
+      "badge": "Campus Lifesaver Tier 2"
+    },
+    {
+      "id": "D503",
+      "name": "Amaka Nwosu",
+      "bloodType": "O-",
+      "distanceKm": 4.1,
+      "etaMin": 11,
+      "department": "Medical Sciences",
+      "lastDonation": "2026-07-02",
+      "eligibleInDays": 0,
+      "badge": "Campus Lifesaver Tier 1"
+    },
+    {
+      "id": "D504",
+      "name": "Ifeanyi Eze",
+      "bloodType": "A+",
+      "distanceKm": 2.5,
+      "etaMin": 6,
+      "department": "Biological Sciences",
+      "lastDonation": "2026-05-20",
+      "eligibleInDays": 0,
+      "badge": "First Donation"
+    }
+  ],
+  "leaderboard": [
+    { "rank": 1, "department": "Engineering", "units": 142 },
+    { "rank": 2, "department": "Medical Sciences", "units": 128 },
+    { "rank": 3, "department": "Biological Sciences", "units": 94 }
+  ]
+}
