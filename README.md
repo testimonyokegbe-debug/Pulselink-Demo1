@@ -5,7 +5,7 @@ are prioritizing flawless User Experience (UX), high-fidelity UI, and realistic 
 infrastructure.
 The backend will serve structured mock data and lightweight state transitions to give the demo realtime responsiveness
 
-PulseLink API
+PulseLink-DEMO API
 
 Base URL: http://localhost:5000
 
