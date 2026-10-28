@@ -128,8 +128,10 @@ app.get("/api/v1/events", (req, res) => {
   });
 });
 
+const PORT = process.env.PORT || 5000;
+
 if (require.main === module) {
-  app.listen(5000, () => console.log("PulseLink API on http://localhost:5000"));
+  app.listen(PORT, () => console.log("PulseLink API running on port " + PORT));
 }
 
 module.exports = app;
