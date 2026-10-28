@@ -1,4 +1,4 @@
-#OBJECTIVE & ENGINEERING PHILOSOPHY
+OBJECTIVE & ENGINEERING PHILOSOPHY
 
 The goal of this MVP is to deliver a slick, high-urgency interactive prototype for the Cowrywise innovative challenge pitch. We
 are prioritizing flawless User Experience (UX), high-fidelity UI, and realistic flow simulation over complex backend
